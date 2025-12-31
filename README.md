@@ -6,3 +6,5 @@ first exercice about calculating the sum of two numbers on a list
 the title already explain the exrcice
 ## EXO 3 WORD OCCURENCE
 another exercice about strings
+## EXO 4 ROMAN NUMBERS
+using a map(dictionaire)
