@@ -8,3 +8,5 @@ the title already explain the exrcice
 another exercice about strings
 ## EXO 4 ROMAN NUMBERS
 using a map(dictionaire)
+## STAck
+first time using stakcs
