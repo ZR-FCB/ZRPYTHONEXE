@@ -10,4 +10,5 @@ another exercice about strings
 using a map(dictionaire)
 ## STAck
 first time using stakcs
-
+## OOP
+exercices to master OOP basics
